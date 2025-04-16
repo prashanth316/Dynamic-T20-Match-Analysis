@@ -21,9 +21,6 @@ Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricke
   - **Libraries:** NumPy, pandas, scikit-learn, Streamlit
   -  **Machine Learning Models:** Logistic Regression, XGBoost
   - **Data Processing:** Advanced feature engineering and data cleansing using Python libraries
-## Demo
-
-- [**Demo Link**](https://t20-score-win-predictor-karthikeya.streamlit.app/)
 
 ### Interact with the Demo:
 
